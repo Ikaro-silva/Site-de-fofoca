@@ -104,7 +104,7 @@
         ![HomeAll Consulta](https://github.com/Ikaro-silva/Site-de-fofoca/blob/main/img/homePesq.jpeg)
         
     ### Registro de Conteúdo- Onde pode ser registrado e postado uma nova fofoca.
-        ![Registro de conteúdos](https://github.com/Ikaro-silva/Site-de-fofoca/blob/main/img/registerContent.jpeg)
+        ![Home page](https://github.com/Ikaro-silva/Site-de-fofoca/blob/main/img/registerContent.jpeg)
         
         
         
