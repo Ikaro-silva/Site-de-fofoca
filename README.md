@@ -85,26 +85,34 @@
   ## Usuários que  NÃO SÃO Cadastrados
     
    ### Registro- Onde o usuário é cadastrado.
-        ![Registro](https://github.com/Ikaro-silva/Site-de-fofoca/blob/main/img/resgisterUser.jpg)  
+   
+        ![resgisterUser](https://user-images.githubusercontent.com/111320172/211595175-f6187960-16ac-4f0e-b4b8-b53afd8bb8d9.jpg)
+  
     
    ### Login - Onde o usuário faz o login.
-        ![Login](https://github.com/Ikaro-silva/Site-de-fofoca/blob/main/img/loginUser.jpeg)
-        
+   
+        ![loginUser](https://user-images.githubusercontent.com/111320172/211595536-72aa6b32-4a98-49c7-b039-e71a36d016ff.jpg)
+   
    ### Home - Onde estão as fofocas com conteúdo restrito (somente temas pré determinado).
-       ![Home](https://github.com/Ikaro-silva/Site-de-fofoca/blob/main/img/homeNoUser.jpeg)
+   
+        ![homeNoUser](https://user-images.githubusercontent.com/111320172/211595683-10e7ff4e-3df4-432e-a214-bf8ffad8cfd4.jpg)
   
  ## Usuários que SÃO cadastrados
     
     ### Home -Onde Todas as fofocas estão(sem trestrição).
-        ![HomeAll](https://github.com/Ikaro-silva/Site-de-fofoca/blob/main/img/homePerfil.jpeg)
-        
     
+        ![homePerfil](https://user-images.githubusercontent.com/111320172/211595843-9ccc5d64-2501-47a7-baa4-89582faac77d.jpg)
+
     ### Consulta -Onde você pode fazer a consulta de todos os conteúdos.
-        ![HomeAll Consulta](https://github.com/Ikaro-silva/Site-de-fofoca/blob/main/img/pesqHome.jpeg)
-        ![HomeAll Consulta](https://github.com/Ikaro-silva/Site-de-fofoca/blob/main/img/homePesq.jpeg)
-        
+    
+        ![homePesq](https://user-images.githubusercontent.com/111320172/211596128-0c872902-808f-4608-9643-90b914648cc2.jpg)
+        ![pesqHome](https://user-images.githubusercontent.com/111320172/211596263-8cf8a5dc-ae84-418d-9d1a-97c40f9417a4.jpg)
+
     ### Registro de Conteúdo- Onde pode ser registrado e postado uma nova fofoca.
-        ![Home page](https://github.com/Ikaro-silva/Site-de-fofoca/blob/main/img/registerContent.jpeg)
+    
+        ![registerContent](https://user-images.githubusercontent.com/111320172/211596376-3a9cffe7-3da4-413e-a87c-1ca9ef614529.jpg)
+
+        
         
         
         
