@@ -85,7 +85,7 @@
   ## Usuários que  NÃO SÃO Cadastrados
     
    ### Registro- Onde o usuário é cadastrado.
-        ![Registro](https://github.com/Ikaro-silva/Site-de-fofoca/blob/main/img/resgisterUser.jpeg)  
+        ![Registro](https://github.com/Ikaro-silva/Site-de-fofoca/blob/main/img/resgisterUser.jpg)  
     
    ### Login - Onde o usuário faz o login.
         ![Login](https://github.com/Ikaro-silva/Site-de-fofoca/blob/main/img/loginUser.jpeg)
