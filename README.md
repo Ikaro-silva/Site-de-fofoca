@@ -34,7 +34,7 @@
 
 ## Node.js (BACKEND)
 
- * Bcryptj
+ * Bcryptjs
  * Cors
  * Dotenv
  * Jsonwebtoken
